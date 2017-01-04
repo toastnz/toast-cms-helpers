@@ -1,0 +1,33 @@
+{
+    "name": "toastnz/toast-cms-helpers",
+    "description": "Silverstripe CMS helpers",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "cms",
+        "documentation"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Jaydn de Graaf",
+            "homepage": "http://pinc.nz/",
+            "email": "jd@pinc.nz",
+            "role": "Tall Guy"
+        },
+        {
+            "name": "Danae Miller-Clendon",
+            "homepage": "http://toast.co.nz/",
+            "email": "danae@toast.co.nz",
+            "role": "Token Chick"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/cms": "~3.1",
+        "silverstripe/framework": "~3.1"
+    },
+    "require-dev": {
+        "phpunit/PHPUnit": "~4.8"
+    }
+}
