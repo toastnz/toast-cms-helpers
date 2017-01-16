@@ -3,3 +3,5 @@ Name: toastcmshelpers
 After: 'framework/*','cms/*'
 Before: 'mysite'
 ---
+ReferenceField:
+  border_color: '#0073aa'
